@@ -28,7 +28,7 @@ To deploy app locally
 
 ## Usage
 To create and demonstrate social media interactions between users on a db
-=======
+
 ## Installation
 * requires NPM and Node.js
 
